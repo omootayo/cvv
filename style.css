@@ -45,7 +45,7 @@ a:hover {
 
 .top-container {
    background-color: gray;
-   padding-top: 100px;
+   padding-top: 150px;
    position:relative;
 }
 
@@ -60,13 +60,13 @@ a:hover {
    }
    .top-star {
        position: absolute;
-       right: 300px;
+       left: 90px;
        border-top: 50px;
        
    }
    .top-star2 {
        position: absolute;
-       left:300px;
+       right:90px;
         border-bottom: 300px;
    }
    .circular {
